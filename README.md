@@ -1,6 +1,6 @@
-# linkedin-learning-docker
+# linkedin-learning-docker-2025
 
-LinkedIn Learning - Learning Docker Course
+[LinkedIn Learning - Learning Docker Course (2025)](https://lnkd.in/e3tbWrtz)
 
 ## Docker images generated during this course
 
